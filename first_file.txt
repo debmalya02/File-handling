@@ -1,0 +1,8 @@
+It is my first file.
+This file
+contains three lines.
+Now the file has more content.
+Now the file has more content.
+Now the file has more content.
+This is a new line
+This is a new line
